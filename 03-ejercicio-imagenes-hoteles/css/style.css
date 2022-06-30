@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.centro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #C05497;
+    font-weight: 200;
+    letter-spacing: 8px;
+}
+
+h2 {
+    font-size: medium;
+    color: #C05497;
+    letter-spacing: 6px;
+}
+
+p {
+    font-size: 13px;
+    color: #3262a6;
+}
+
+.p-derecha {
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.p-izquierda {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
